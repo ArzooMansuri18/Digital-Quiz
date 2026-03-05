@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Digital Quiz App</h1>
 
 <p>This project is a fully functional <b>Digital Quiz Application</b> built using <b>HTML, CSS and JavaScript.</b> Users can answer multiple-choice questions, see their score at the end, and restart the quiz anytime.</p>
@@ -122,5 +121,4 @@
 
 <p>Just open 'index.html' in any browser -no server required.</p>
 
->>>>>>> 014037164de16d1643dca9d71df64d3a7a8a4b5c
 <h2>Author:- Arzoo Mansuri</h2>
