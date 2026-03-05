@@ -36,7 +36,9 @@ ul{
 
 label{
     padding: 10px;
+    cursor: pointer;
 }
+
 li{
     padding: 5px;
 }
